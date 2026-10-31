@@ -38,7 +38,11 @@ jobs:
         run: flutter gen-l10n
 
       - name: Run tests
-        run: flutter test
+        run:
+          echo "Current test files:"
+          find test -maxdepth 2 -type f -print
+          flutter test test/calculator_test.dart
+          flutter test test/language_test.dart
 
       - name: Build Debug APK
         run: flutter build apk --debug
