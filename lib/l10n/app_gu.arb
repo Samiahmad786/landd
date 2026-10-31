@@ -1,0 +1,16 @@
+{
+  "@@locale": "gu",
+  "appTitle": "ભૂમિ સાથી",
+  "home": "હોમ",
+  "calculator": "જમીન કેલ્ક્યુલેટર",
+  "offices": "કચેરીઓ",
+  "profile": "પ્રોફાઇલ",
+  "selectState": "રાજ્ય પસંદ કરો",
+  "selectDistrict": "જિલ્લો પસંદ કરો",
+  "landRecords": "જમીન રેકોર્ડ",
+  "landMap": "જમીનનો નકશો",
+  "plotSearch": "ખાતા / સર્વે નંબર",
+  "mutation": "નામ ફેરફાર સ્થિતિ",
+  "revenue": "જમીન મહેસૂલ",
+  "help": "મદદ"
+}

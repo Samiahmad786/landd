@@ -1,0 +1,5 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import '../onboarding/language_screen.dart';
+import '../../core/localization/locale_controller.dart';
+class ProfileScreen extends ConsumerWidget{const ProfileScreen({super.key});@override Widget build(BuildContext c,WidgetRef r)=>Scaffold(appBar:AppBar(title:const Text('Profile & Settings')),body:ListView(children:[const ListTile(title:Text('Guest profile'),subtitle:Text('Firebase setup is required for account sync and real OTP.')),const Padding(padding:EdgeInsets.all(16),child:Text('Change language')), ...LanguageScreen.langs.entries.map((e)=>RadioListTile<String>(value:e.key,groupValue:r.watch(localeProvider),title:Text(e.value),onChanged:(v)=>r.read(localeProvider.notifier).set(v!))),const ListTile(title:Text('Privacy Policy')),const ListTile(title:Text('Terms of Use')),const ListTile(title:Text('Account deletion'),subtitle:Text('Implement after Firebase account setup.')),const Center(child:Text('Developed by Sami Sajjad'))]));}

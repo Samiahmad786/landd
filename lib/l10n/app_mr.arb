@@ -1,0 +1,16 @@
+{
+  "@@locale": "mr",
+  "appTitle": "भूमी साथी",
+  "home": "मुख्यपृष्ठ",
+  "calculator": "जमीन मोजणी",
+  "offices": "कार्यालये",
+  "profile": "प्रोफाइल",
+  "selectState": "राज्य निवडा",
+  "selectDistrict": "जिल्हा निवडा",
+  "landRecords": "जमीन नोंदी",
+  "landMap": "जमिनीचा नकाशा",
+  "plotSearch": "खाता / सर्वे क्रमांक",
+  "mutation": "फेरफार स्थिती",
+  "revenue": "जमीन महसूल",
+  "help": "मदत"
+}

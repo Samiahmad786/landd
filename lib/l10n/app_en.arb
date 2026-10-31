@@ -1,0 +1,16 @@
+{
+  "@@locale": "en",
+  "appTitle": "Bhumi Saathi",
+  "home": "Home",
+  "calculator": "Calculator",
+  "offices": "Offices",
+  "profile": "Profile",
+  "selectState": "Select State / UT",
+  "selectDistrict": "Select District",
+  "landRecords": "Land Records",
+  "landMap": "Land Map / Village Map",
+  "plotSearch": "Khata / Khesra / Khatiyan",
+  "mutation": "Mutation Status",
+  "revenue": "Land Revenue / Lagan",
+  "help": "Help / FAQ"
+}

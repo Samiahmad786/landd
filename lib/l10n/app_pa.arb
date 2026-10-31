@@ -1,0 +1,16 @@
+{
+  "@@locale": "pa",
+  "appTitle": "ਭੂਮੀ ਸਾਥੀ",
+  "home": "ਘਰ",
+  "calculator": "ਜ਼ਮੀਨ ਕੈਲਕੂਲੇਟਰ",
+  "offices": "ਦਫ਼ਤਰ",
+  "profile": "ਪ੍ਰੋਫ਼ਾਈਲ",
+  "selectState": "ਰਾਜ ਚੁਣੋ",
+  "selectDistrict": "ਜ਼ਿਲ੍ਹਾ ਚੁਣੋ",
+  "landRecords": "ਜ਼ਮੀਨ ਰਿਕਾਰਡ",
+  "landMap": "ਜ਼ਮੀਨ ਦਾ ਨਕਸ਼ਾ",
+  "plotSearch": "ਖਾਤਾ / ਖਸਰਾ",
+  "mutation": "ਇੰਤਕਾਲ ਸਥਿਤੀ",
+  "revenue": "ਜ਼ਮੀਨ ਮਾਲੀਆ",
+  "help": "ਮਦਦ"
+}

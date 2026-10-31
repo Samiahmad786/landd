@@ -1,0 +1,16 @@
+{
+  "@@locale": "bn",
+  "appTitle": "ভূমি সাথী",
+  "home": "হোম",
+  "calculator": "জমি ক্যালকুলেটর",
+  "offices": "অফিস",
+  "profile": "প্রোফাইল",
+  "selectState": "রাজ্য নির্বাচন করুন",
+  "selectDistrict": "জেলা নির্বাচন করুন",
+  "landRecords": "ভূমি রেকর্ড",
+  "landMap": "জমির মানচিত্র",
+  "plotSearch": "খতিয়ান / দাগ অনুসন্ধান",
+  "mutation": "নামজারি অবস্থা",
+  "revenue": "ভূমি রাজস্ব",
+  "help": "সহায়তা"
+}

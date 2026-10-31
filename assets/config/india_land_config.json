@@ -1,0 +1,277 @@
+{
+  "states": [
+    {
+      "id": "BR",
+      "name": "Bihar",
+      "districts": [
+        "Araria",
+        "Arwal",
+        "Aurangabad",
+        "Banka",
+        "Begusarai",
+        "Bhagalpur",
+        "Bhojpur",
+        "Buxar",
+        "Darbhanga",
+        "East Champaran",
+        "Gaya",
+        "Gopalganj",
+        "Jamui",
+        "Jehanabad",
+        "Kaimur",
+        "Katihar",
+        "Khagaria",
+        "Kishanganj",
+        "Lakhisarai",
+        "Madhepura",
+        "Madhubani",
+        "Munger",
+        "Muzaffarpur",
+        "Nalanda",
+        "Nawada",
+        "Patna",
+        "Purnia",
+        "Rohtas",
+        "Saharsa",
+        "Samastipur",
+        "Saran",
+        "Sheikhpura",
+        "Sheohar",
+        "Sitamarhi",
+        "Siwan",
+        "Supaul",
+        "Vaishali",
+        "West Champaran"
+      ],
+      "portals": {
+        "records": "https://biharbhumi.bihar.gov.in/",
+        "map": "https://bhunaksha.bihar.gov.in/",
+        "plot": "https://biharbhumi.bihar.gov.in/",
+        "mutation": "https://biharbhumi.bihar.gov.in/",
+        "revenue": "https://biharbhumi.bihar.gov.in/"
+      }
+    },
+    {
+      "id": "UP",
+      "name": "Uttar Pradesh",
+      "districts": [
+        "Agra",
+        "Aligarh",
+        "Prayagraj",
+        "Ayodhya",
+        "Azamgarh",
+        "Bareilly",
+        "Gautam Buddha Nagar",
+        "Ghaziabad",
+        "Gorakhpur",
+        "Kanpur Nagar",
+        "Lucknow",
+        "Varanasi"
+      ],
+      "portals": {
+        "records": "https://upbhulekh.gov.in/",
+        "map": "https://upbhunaksha.gov.in/",
+        "plot": "https://upbhulekh.gov.in/"
+      }
+    },
+    {
+      "id": "JH",
+      "name": "Jharkhand",
+      "districts": [
+        "Bokaro",
+        "Chatra",
+        "Deoghar",
+        "Dhanbad",
+        "Dumka",
+        "East Singhbhum",
+        "Garhwa",
+        "Giridih",
+        "Godda",
+        "Gumla",
+        "Hazaribagh",
+        "Jamtara",
+        "Khunti",
+        "Koderma",
+        "Latehar",
+        "Lohardaga",
+        "Pakur",
+        "Palamu",
+        "Ramgarh",
+        "Ranchi",
+        "Sahibganj",
+        "Seraikela Kharsawan",
+        "Simdega",
+        "West Singhbhum"
+      ],
+      "portals": {
+        "records": "https://jharbhoomi.jharkhand.gov.in/"
+      }
+    },
+    {
+      "id": "WB",
+      "name": "West Bengal",
+      "districts": [
+        "Alipurduar",
+        "Bankura",
+        "Birbhum",
+        "Cooch Behar",
+        "Darjeeling",
+        "Hooghly",
+        "Howrah",
+        "Jalpaiguri",
+        "Kolkata",
+        "Malda",
+        "Murshidabad",
+        "Nadia",
+        "Purulia"
+      ],
+      "portals": {
+        "records": "https://banglarbhumi.gov.in/"
+      }
+    },
+    {
+      "id": "RJ",
+      "name": "Rajasthan",
+      "districts": [
+        "Ajmer",
+        "Alwar",
+        "Banswara",
+        "Barmer",
+        "Bharatpur",
+        "Bhilwara",
+        "Bikaner",
+        "Jaipur",
+        "Jaisalmer",
+        "Jodhpur",
+        "Kota",
+        "Udaipur"
+      ],
+      "portals": {
+        "records": "https://apnakhata.rajasthan.gov.in/"
+      }
+    },
+    {
+      "id": "MP",
+      "name": "Madhya Pradesh",
+      "districts": [
+        "Bhopal",
+        "Gwalior",
+        "Indore",
+        "Jabalpur",
+        "Rewa",
+        "Sagar",
+        "Ujjain"
+      ],
+      "portals": {
+        "records": "https://mpbhulekh.gov.in/"
+      }
+    },
+    {
+      "id": "default",
+      "name": "Other States / UTs",
+      "districts": [
+        "District data being updated"
+      ],
+      "portals": {
+        "records": "https://landrecords.gov.in/"
+      }
+    }
+  ],
+  "services": {
+    "BR": {
+      "records": "Jamabandi / RoR",
+      "map": "Bhu-Naksha / Village Map",
+      "plot": "Khata / Khesra / Khatiyan",
+      "mutation": "Dakhil-Kharij",
+      "revenue": "Lagan Payment",
+      "offices": "Anchal / CO / Registry Office",
+      "help": "Help / FAQ"
+    },
+    "UP": {
+      "records": "Khatauni / Bhulekh",
+      "map": "Village Map / Bhu-Naksha",
+      "plot": "Gata / Khasra details",
+      "mutation": "Dakhil-Kharij",
+      "revenue": "Land Revenue",
+      "offices": "Tehsil / Lekhpal / Registry",
+      "help": "Help / FAQ"
+    },
+    "JH": {
+      "records": "Jamabandi / Register-II",
+      "map": "Bhu-Naksha",
+      "plot": "Khata / Plot details",
+      "mutation": "Mutation",
+      "revenue": "Land Revenue",
+      "offices": "Anchal / Circle Office",
+      "help": "Help / FAQ"
+    },
+    "WB": {
+      "records": "Khatian / RoR",
+      "map": "Mouza Map",
+      "plot": "Khatian / Dag search",
+      "mutation": "Mutation",
+      "revenue": "Land Revenue",
+      "offices": "BL&LRO Office",
+      "help": "Help / FAQ"
+    },
+    "RJ": {
+      "records": "Jamabandi / Apna Khata",
+      "map": "Bhu-Naksha",
+      "plot": "Khasra details",
+      "mutation": "Mutation",
+      "revenue": "Land Revenue",
+      "offices": "Tehsil / Patwari",
+      "help": "Help / FAQ"
+    },
+    "MP": {
+      "records": "Khasra / B-1",
+      "map": "Bhu-Naksha",
+      "plot": "Khasra / Khatauni",
+      "mutation": "Namantaran",
+      "revenue": "Land Revenue",
+      "offices": "Patwari / Tehsil",
+      "help": "Help / FAQ"
+    },
+    "default": {
+      "records": "Land Records / RoR",
+      "map": "Village Map",
+      "plot": "Plot / Survey search",
+      "mutation": "Mutation Status",
+      "revenue": "Land Revenue",
+      "offices": "Revenue Offices",
+      "help": "Help / FAQ"
+    }
+  },
+  "unitStandards": {
+    "BR": {
+      "label": "Bihar demo standard; verify district factors",
+      "sqftPerUnit": {
+        "Sq Ft": 1,
+        "Sq Meter": 10.7639104167,
+        "Decimal": 435.6,
+        "Acre": 43560,
+        "Katha": 1361.25,
+        "Dhur": 68.0625
+      }
+    },
+    "UP": {
+      "label": "UP demo; local factors require verification",
+      "sqftPerUnit": {
+        "Sq Ft": 1,
+        "Sq Meter": 10.7639104167,
+        "Decimal": 435.6,
+        "Acre": 43560,
+        "Gaj": 9
+      }
+    },
+    "default": {
+      "label": "Standard area units only",
+      "sqftPerUnit": {
+        "Sq Ft": 1,
+        "Sq Meter": 10.7639104167,
+        "Decimal": 435.6,
+        "Acre": 43560
+      }
+    }
+  }
+}
